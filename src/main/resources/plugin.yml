@@ -1,6 +1,6 @@
 name: RPGFishing
 version: '${project.version}'
-main: fleowo.HardcoreFishing
+main: fleowo.RPGFishing
 api-version: 1.19
 commands:
   rpgfishing:

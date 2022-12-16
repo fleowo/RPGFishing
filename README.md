@@ -11,6 +11,5 @@ Commands
 Setup
 Simply plug and play.
 
-Pictures
 ![rpg1](https://user-images.githubusercontent.com/115431552/208019697-38aa5450-eafb-4eaf-a61e-b80c9bb5d0e4.png)
 ![rpg2](https://user-images.githubusercontent.com/115431552/208019732-6c6e3041-3b34-4135-9edd-780d04ee1447.png)

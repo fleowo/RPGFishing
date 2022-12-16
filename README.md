@@ -1,4 +1,9 @@
-# RPGFishing
+
+## About The Project | RPGFishing
+Please understand before using this plugin 
+* Im not gonna update or fix any bug for this plugin (maybe update for new version of minecraft)
+* This plugin only tested in minecraft version 1.19
+* The Author of this plugin is Gober im only work for make this plugin can run in newest version of minecraft
 
 ![432967-04e39539c71e4c86f1dd8b5e9259a8bd](https://user-images.githubusercontent.com/115431552/208019678-cefadb28-4d9c-4f4b-a687-66b5a19f8e89.png)
 
